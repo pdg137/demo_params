@@ -1,5 +1,6 @@
 DemoParams::Application.routes.draw do
   match 'test/:id' => 'test#view'
+  match 'test/:id/:param1' => 'test#view'
 
   # The priority is based upon order of creation:
   # first created -> highest priority.
