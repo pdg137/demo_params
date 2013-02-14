@@ -1,1 +1,1 @@
-See http://afternoon-mountain-2009.herokuapp.com/test/1/blah
+See http://afternoon-mountain-2009.herokuapp.com/test/1
